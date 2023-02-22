@@ -49,7 +49,7 @@ function lefttunnel() {
 function swimtoisland() {
   heading.innerHTML = "Death by a trap";
   heading.style.borderBottom = "2px solid rgb(139, 0, 0)";
-  heading.style.color = "red";
+  heading.style.color = "#8B0000";
   parg.innerHTML = "";
   par2.innerHTML =
     "Jack swam to the island, but as soon as he stepped foot on the island, he triggered a trap that caused the temple to collapse, burying him alive.";
@@ -62,7 +62,7 @@ function swimtoisland() {
 function goaroundtemple() {
   heading.innerHTML = "Robbed and killed";
   heading.style.borderBottom = "2px solid rgb(139, 0, 0)";
-  heading.style.color = "red";
+  heading.style.color = "#8B0000";
   parg.innerHTML = "";
   par2.innerHTML =
     "Jack searched the perimeter of the lake and discovered a narrow path that led to the temple. He made his way to the temple, but as soon as he entered, he was ambushed by a group of thieves who stole all of his supplies and killed him";
@@ -87,7 +87,7 @@ function righttunnel() {
 function solvepuzles() {
   heading.innerHTML = "Killed by the trap";
   heading.style.borderBottom = "2px solid rgb(139, 0, 0)";
-  heading.style.color = "red";
+  heading.style.color = "#8B0000";
   parg.innerHTML = "";
   par2.innerHTML =
     "Jack attempted to navigate the traps and solve the puzzles, but he made a fatal mistake and was killed by one of the traps.";
@@ -137,7 +137,7 @@ function surroundingarea() {
 function swimunderneath() {
   heading.innerHTML = "Killed by piranhas";
   heading.style.borderBottom = "2px solid rgb(139, 0, 0)";
-  heading.style.color = "red";
+  heading.style.color = "#8B0000";
   parg.innerHTML = "";
   par2.innerHTML =
     "Jack took a swim in the pool beneath the waterfall, but as he was swimming, he was attacked by a group of piranhas and killed.";
@@ -150,7 +150,7 @@ function swimunderneath() {
 function behindwaterfall() {
   heading.innerHTML = "Trapped in laboratory";
   heading.style.borderBottom = "2px solid rgb(139, 0, 0)";
-  heading.style.color = "red";
+  heading.style.color = "#8B0000";
   parg.innerHTML = "";
   par2.innerHTML =
     "Behind the waterfall and found a hidden laboratory filled with advanced technology and scientific experiments. However, as he was exploring, he stumbled upon a booby trap that triggered a lockdown, trapping him inside with no way to escape.";
@@ -175,7 +175,7 @@ function climbhigher() {
 function continueclimb() {
   heading.innerHTML = "Fell to death";
   heading.style.borderBottom = "2px solid rgb(139, 0, 0)";
-  heading.style.color = "red";
+  heading.style.color = "#8B0000";
   parg.innerHTML = "";
   par2.innerHTML =
     "Jack continued the climb, but he soon lost his footing and fell to his death.";
@@ -213,7 +213,7 @@ function stay() {
 function leave() {
   heading.innerHTML = "Back home";
   heading.style.borderBottom = "2px solid rgb(139, 0, 0)";
-  heading.style.color = "red";
+  heading.style.color = "#8B0000";
   parg.innerHTML = "";
   par2.innerHTML =
     "Jack left the village and searched for a way back home. He eventually found his way back, but the journey had taken a toll on him and he passed away shortly after returning.";
@@ -261,8 +261,8 @@ function samepath() {
 }
 function fight() {
   heading.innerHTML = "Killed by robbers";
-  heading.style.color = "red";
-  heading.style.borderBottom = "2px solid red";
+  heading.style.color = "#8B0000";
+  heading.style.borderBottom = "2px solid #8B0000";
   parg.innerHTML = "";
   par2.innerHTML =
     "Michael fought with the bandits to protect his gems but they have weapons and Michael was killed.";
@@ -274,7 +274,7 @@ function fight() {
 }
 function avoid() {
   heading.innerHTML = "The Dragon's Layer";
-  heading.style.borderBottom = "2px solid red";
+  heading.style.borderBottom = "2px solid #8B0000";
   parg.innerHTML = "";
   par2.innerHTML =
     "Michael gave all his gems to the robbers and continued on his journey. He eventually reaches the treasure, but he realizes that it is guarded by a powerful dragon.";
@@ -299,8 +299,8 @@ function fightdragon() {
 }
 function gohome() {
   heading.innerHTML = "Went Home";
-  heading.style.borderBottom = "2px solid red";
-  heading.style.color = "red";
+  heading.style.borderBottom = "2px solid #8B0000";
+  heading.style.color = "#8B0000";
   parg.innerHTML = "";
   par2.innerHTML =
     "He returns home but is filled with regret for giving up on his quest for the treasure. Michael lives the rest of his life wondering what could have been happend.";
@@ -324,8 +324,8 @@ function diffpath() {
 }
 function swim() {
   heading.innerHTML = "The tasty one";
-  heading.style.borderBottom = "2px solid red";
-  heading.style.color = "red";
+  heading.style.borderBottom = "2px solid #8B0000";
+  heading.style.color = "#8B0000";
   parg.innerHTML = "";
   par2.innerHTML =
     "He tried to swim across the lake but it was full of alligators and they had a delicious lunch.";
@@ -375,8 +375,8 @@ function agree() {
 }
 function retrieve() {
   heading.innerHTML = "The betrayal";
-  heading.style.borderBottom = "2px solid red";
-  heading.style.color = "red";
+  heading.style.borderBottom = "2px solid #8B0000";
+  heading.style.color = "#8B0000";
   parg.innerHTML = "";
   par2.innerHTML =
     "He retrieves the crystal and returns it to the mermaid, but she betrays him and takes the crystal for herself. He is left stranded in the ocean with no way to return to the surface.";
@@ -388,8 +388,8 @@ function retrieve() {
 }
 function noretrieve() {
   heading.innerHTML = "The Anger";
-  heading.style.borderBottom = "2px solid red";
-  heading.style.color = "red";
+  heading.style.borderBottom = "2px solid #8B0000";
+  heading.style.color = "#8B0000";
   parg.innerHTML = "";
   par2.innerHTML =
     "He refuses to bring back her crystal. The mermaid got mad and cursed Michael, causing him to die.";
@@ -438,8 +438,8 @@ function listen() {
 }
 function ignore() {
   heading.innerHTML = "The Anger";
-  heading.style.borderBottom = "2px solid red";
-  heading.style.color = "red";
+  heading.style.borderBottom = "2px solid #8B0000";
+  heading.style.color = "#8B0000";
   parg.innerHTML = "";
   par2.innerHTML =
     "Michael ignored the old man and proceeded with his journey. But, the old man was not an ordinary man; it was an angel checking if Michael would listen to him. He got so angry and threw Michael into the void.";
@@ -451,8 +451,8 @@ function ignore() {
 }
 function bridge() {
   heading.innerHTML = "The Bridge";
-  heading.style.borderBottom = "2px solid red";
-  heading.style.color = "red";
+  heading.style.borderBottom = "2px solid #8B0000";
+  heading.style.color = "#8B0000";
   parg.innerHTML = "";
   par2.innerHTML =
     " Michael tried to cross the bridge. It was wobbly and looking kind of weak, but Michael still had the courage to cross it. While crossing the bridge, the bridge collapsed, and Michael fell into the void.";
